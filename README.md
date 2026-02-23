@@ -1,2 +1,2 @@
 # SpyglassMC.nvim
-nvim for spyglass-mc
+nvim plugin for spyglass-mc
